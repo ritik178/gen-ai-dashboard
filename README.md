@@ -1,5 +1,9 @@
 # Gen AI Analytics
 
+## 🚀 Live Demo
+🔗 [Click here to view the deployed app](https://gen-ai-dashboard-ivory.vercel.app/)
+
+
 ## Overview
 Gen AI Analytics is a React-based web application that allows users to input queries and receive AI-generated responses. The application maintains a history of queries and their results, displaying them in a visually appealing UI with data visualization.
 
